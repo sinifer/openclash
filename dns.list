@@ -1,0 +1,6 @@
+DOMAIN,dns.google
+DOMAIN,1.1.1.1
+DOMAIN,one.one.one.one
+IP-CIDR,1.1.1.1/27,no-resolve
+DOMAIN,quad9.net
+DOMAIN-KEYWORD,quad9
