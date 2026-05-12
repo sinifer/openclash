@@ -4,9 +4,9 @@ DOMAIN,1.0.0.1
 DOMAIN,8.8.8.8
 DOMAIN,8.8.4.4
 DOMAIN,one.one.one.one
-IP-CIDR,1.1.1.1/27,no-resolve
-IP-CIDR,1.0.0.1/27,no-resolve
-IP-CIDR,8.8.8.8/27,no-resolve
-IP-CIDR,8.8.4.4/27,no-resolve
+IP-CIDR,1.1.1.1/32,no-resolve
+IP-CIDR,1.0.0.1/32,no-resolve
+IP-CIDR,8.8.8.8/32,no-resolve
+IP-CIDR,8.8.4.4/32,no-resolve
 DOMAIN,quad9.net
 DOMAIN-KEYWORD,quad9
