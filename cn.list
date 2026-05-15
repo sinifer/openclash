@@ -1,3 +1,4 @@
+IP-CIDR,47.254.156.82/32,no-resolve
 #DOMAIN,devapi.unknowntec.com
 #DOMAIN,simplushome.unknowntec.com
 DOMAIN-KEYWORD,unknowntec
@@ -11,10 +12,10 @@ DOMAIN-KEYWORD,ai-anywhere.com
 DOMAIN-KEYWORD,futunn
  # DOMAIN-KEYWORD,hkmlqxg
 DOMAIN-KEYWORD,starvod
-IP-CIDR,135.148.104.228/27,no-resolve
-IP-CIDR,147.135.39.171/27,no-resolve
-IP-CIDR,118.128.63.44/27,no-resolve
-IP-CIDR,116.206.210.153/27,no-resolve
+IP-CIDR,135.148.104.228/32,no-resolve
+IP-CIDR,147.135.39.171/32,no-resolve
+IP-CIDR,118.128.63.44/32,no-resolve
+IP-CIDR,116.206.210.153/32,no-resolve
  # DST-PORT,5080
  # DOMAIN-SUFFIX,multi-byte.io
  # DOMAIN-KEYWORD,multi-byte
