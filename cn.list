@@ -1,3 +1,6 @@
+DOMAIN-KEYWORD,jooaniot
+DOMAIN,device.jooaniot.com
+DOMAIN,use1api.jooaniot.com
 DOMAIN,jxym.phym.xyz
 #DOMAIN,xn--ngstr-lra8j.com
 IP-CIDR,47.254.156.82/32,no-resolve
