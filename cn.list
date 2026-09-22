@@ -1,5 +1,5 @@
-DOMAIN,redfox.hk
-DOMAIN-KEYWORD,redfox
+#DOMAIN,redfox.hk
+#DOMAIN-KEYWORD,redfox
 IP-CIDR,193.22.152.20/32,no-resolve
 DOMAIN,ai.superdoor.top
 DOMAIN,ai.opendoor.sbs
