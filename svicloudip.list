@@ -1,5 +1,5 @@
-IP-CIDR,104.243.44.248/32
-IP-CIDR,5.5.5.5/32
+IP-CIDR,104.243.44.248/32,no-resolve
+IP-CIDR,5.5.5.5/32,no-resolve
 IP-CIDR,38.75.137.28/32,no-resolve
 IP-CIDR,38.75.137.100/32,no-resolve
 IP-CIDR,38.107.226.16/32,no-resolve
